@@ -19,6 +19,8 @@ target 'Test1' do
   #pod 'AppRTC'
   #pod "libjingle_peerconnection"
   pod "WebRTC"
+#  pod "KurentoToolbox"
+  pod 'Reachability'
 
 
 end
