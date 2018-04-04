@@ -1,0 +1,20 @@
+PODS:
+  - SwiftWebSocket (2.7.0)
+  - WebRTC (63.11.20455)
+
+DEPENDENCIES:
+  - SwiftWebSocket
+  - WebRTC
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftWebSocket
+    - WebRTC
+
+SPEC CHECKSUMS:
+  SwiftWebSocket: 612c9729fd503cb6b0b8b45390c788686dac306f
+  WebRTC: f2a6203584745fe53532633397557876b5d71640
+
+PODFILE CHECKSUM: ae3baa412eeb1e90ebc7a1776ea1e1c3cdebd90f
+
+COCOAPODS: 1.5.0.beta.1
